@@ -1,3 +1,7 @@
+body {
+	background-color: rgb(92, 92, 92);
+}
+
 .calc_container-main {
   width: 25%;
   display: flex;
